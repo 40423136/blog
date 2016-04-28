@@ -99,7 +99,7 @@ Author: 40423136
 
 &lt;a href="http://http://chin-com4456.rhcloud.com/get_page?heading=head+1"&gt;CMSimply&lt;/a&gt;
 
-&lt;a href="https://github.com/40423136/blog/post/index.html"&gt;Pelican&lt;/a&gt;
+&lt;a href="http://40423136.github.io/blog/post/index.html"&gt;Pelican&lt;/a&gt;
 
 &lt;a href="http://http://wp-com4456.rhcloud.com//"&gt;WordPress&lt;/a&gt;
 </t>
